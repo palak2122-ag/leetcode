@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/palak2122-ag/leetcode/tree/master/0070-climbing-stairs) |
+| [2409-count-days-spent-together](https://github.com/palak2122-ag/leetcode/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/palak2122-ag/leetcode/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/palak2122-ag/leetcode/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
