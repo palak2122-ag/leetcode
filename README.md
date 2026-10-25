@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/palak2122-ag/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/palak2122-ag/leetcode/tree/master/0015-3sum) |
 | [0216-combination-sum-iii](https://github.com/palak2122-ag/leetcode/tree/master/0216-combination-sum-iii) |
+| [1254-number-of-closed-islands](https://github.com/palak2122-ag/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2498-frog-jump-ii](https://github.com/palak2122-ag/leetcode/tree/master/2498-frog-jump-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/palak2122-ag/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3693-climbing-stairs-ii](https://github.com/palak2122-ag/leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -62,4 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/palak2122-ag/leetcode/tree/master/2409-count-days-spent-together) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/palak2122-ag/leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/palak2122-ag/leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/palak2122-ag/leetcode/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/palak2122-ag/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
