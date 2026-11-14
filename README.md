@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/palak2122-ag/leetcode/tree/master/2498-frog-jump-ii) |
 | [2747-count-zero-request-servers](https://github.com/palak2122-ag/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/palak2122-ag/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/palak2122-ag/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/palak2122-ag/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/palak2122-ag/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/palak2122-ag/leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/palak2122-ag/leetcode/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/palak2122-ag/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/palak2122-ag/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/palak2122-ag/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
